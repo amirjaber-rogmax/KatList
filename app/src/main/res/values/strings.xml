@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KatList</string>
+    <string name="num">#</string>
+    <string name="my_good">My good №</string>
+    <string name="show_checked_items">Show Checked Items</string>
+    <string name="count_of_goods">Count of goods =</string>
+    <string name="num">#</string>
+    <string name="my_good">My good №</string>
+
+
+</resources>
